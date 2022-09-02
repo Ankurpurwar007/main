@@ -1,0 +1,6 @@
+Version: 0.2
+phases:
+  build:
+    commands:
+      - echo $Room
+      - echo $aws
